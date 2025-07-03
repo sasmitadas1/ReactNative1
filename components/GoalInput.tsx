@@ -15,9 +15,9 @@ function GoalInput({ onAddGoal }: GoalInputProps) {
       return;
     }
     onAddGoal(enteredGoalText);
-
     setEnteredGoalText('');
   }
+  
   return (
     <View style={styles.inputContainer}>
       <TextInput
