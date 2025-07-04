@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
     padding: 8,
     backgroundColor: '#673AB7',
     borderRadius: 5,
-    width: '90%',
+    width: '100%',
   },
   goalText: {
     color: 'white',
